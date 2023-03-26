@@ -1,0 +1,5 @@
+declare module 'react-leaflet/MapContainer'
+declare module 'react-leaflet/TileLayer'
+declare module 'react-leaflet/hooks'
+declare module 'react-leaflet/marker'
+declare module 'react-leaflet/popup'
